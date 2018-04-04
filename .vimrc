@@ -6,6 +6,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'pangloss/vim-javascript'
 Plug 'vim-syntastic/syntastic'
 Plug 'maksimr/vim-jsbeautify'
+Plug 'editorconfig/editorconfig-vim'
 call plug#end()
 
 "--------------
